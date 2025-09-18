@@ -15,6 +15,8 @@ function App() {
         <Routes>
           <Route path="/coba" element={<Coba />} />
 
+          
+
           <Route path="/" element={<Home />} />
         </Routes>
         <Footer />
